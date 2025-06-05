@@ -1,0 +1,13 @@
+ultralytics
+paddlepaddle
+paddleocr
+opencv-python
+numpy
+torch
+torchvision
+pillow
+tqdm
+pyyaml
+matplotlib
+seaborn
+fastanpr
